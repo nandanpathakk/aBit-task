@@ -2,7 +2,7 @@ import React from "react";
 import add from "../assets/images/plus.svg"
 function NewRelease() {
     return (
-        <div className="flex mt-[68px] gap-[42.36px] pl-[94px] pb-[244px] border-b border-[#D8D8D8]">
+        <div className="flex mt-[68px] gap-[42.36px] pl-[94px] pb-[244px] border-b border-[#D8D8D8] font-['inter']">
             <div className="bg-[#EDEDED] w-[283.64px] h-[312px] rounded-[24px] flex flex-col items-center gap-[62px] pt-[140px]">
                 <div className="text-[32px]">
                     <img src={add} alt="add-icon" />
